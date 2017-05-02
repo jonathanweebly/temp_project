@@ -1,3 +1,9 @@
+To build:
+```
+docker build -t weebly-knowledge .
+docker run -d -p 80:8080 weebly-knowledge
+```
+
 # docker-knowledge
 Docker file for knowledge
 
